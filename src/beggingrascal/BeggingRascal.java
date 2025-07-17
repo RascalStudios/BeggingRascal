@@ -1,3 +1,5 @@
+package beggingrascal;
+
 import org.dreambot.api.input.Keyboard;
 import org.dreambot.api.input.Mouse;
 import org.dreambot.api.methods.container.impl.bank.Bank;
